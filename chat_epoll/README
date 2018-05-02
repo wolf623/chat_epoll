@@ -1,0 +1,20 @@
+
+
+A chat function:
+tcp_epoll_server.c: A chat server base on EPOLL
+tcp_epoll_client.c: A char client base on EPOLL
+tcp_client.c: EPOLL test client
+
+A echo function:
+echo_server.c: echo server
+echo_client.c: echo client
+
+stdin_epoll.c: EPOLL test with stdin/stdout
+
+For more information, please see: http://www.cnblogs.com/ok-wolf/p/7808317.html
+
+If you have any question, you can contact with me,
+my e-mail: 2224749495@qq.com
+
+
+ 
